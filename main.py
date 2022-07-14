@@ -3,7 +3,7 @@ from discord.ext import commands
 import  asyncio
 
 cogs = ["general.py", "tests.py","voice1.py"]
-token = "ODU3Mjc4NzU3MzI4NjUwMjQw.YNNRDw.TFWxaliukrXNJZ33dBU1CEFnRlo"
+token = ""
 
 #set's prefix
 bot = commands.Bot(command_prefix=">")
